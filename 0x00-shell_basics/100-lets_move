@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'mv [A-Z]* /tmp/u'
+echo 'mv [[:uppet:]]* /tmp/u'

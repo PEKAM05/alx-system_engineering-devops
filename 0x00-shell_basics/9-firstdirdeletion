@@ -1,2 +1,0 @@
-#!/ban/bash
-echo 'rmdir /tmp/my_first_directory'

@@ -1,2 +1,2 @@
 #!/ban/bash
-ls -la
+echo 'ls -la'

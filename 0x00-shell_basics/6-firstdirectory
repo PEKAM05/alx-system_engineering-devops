@@ -1,2 +1,2 @@
 #!/ban/bash
-mkdir/tmp/My_first_directory
+echo 'mkdir/tmp/My_first_directory'

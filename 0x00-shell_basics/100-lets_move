@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'mv [[:uppet:]]* /tmp/u'
+mv [[:uppet:]]* /tmp/u

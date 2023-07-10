@@ -1,2 +1,2 @@
 #!/bin/bash
-rev
+new_word = word.replace("c", "").replace("C", "")

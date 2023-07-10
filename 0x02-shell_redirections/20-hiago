@@ -1,2 +1,2 @@
 #!/bin/bash
-new_word = word.replace("c", "").replace("C", "")
+input_string = output_string.replace("c", "").replace("C", "")
